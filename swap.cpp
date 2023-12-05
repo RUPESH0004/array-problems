@@ -58,6 +58,5 @@ void printing(int arr[], int size)
 int main()
 {
     int arr[6] = {1, 4, 6, 4, 7, 5};
-   reverse(arr,6);
    printing(arr,6);
 }
